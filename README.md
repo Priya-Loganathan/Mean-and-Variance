@@ -1,8 +1,8 @@
-#  Mean and variance of a discrete  distribution
+# Ex no 1 - Mean and variance of a discrete distribution
+# Date : 25-10-2023
 
 # Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
-
 
 # Software required :  
 Python and Visual components tool
@@ -66,6 +66,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 # Output : 
+![image](https://github.com/Priya-Loganathan/Mean-and-Variance/assets/121166075/2032a120-462f-48c2-a444-06739d2997a3)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
